@@ -4,12 +4,12 @@
 CdashIgApp
 
 ### Project Purpose ###
-The CDASHIG App supports metadata-drive automation by allowing users to import, view, and delete the Domains and Example CRFs specified in the CDASHIG V2.2 PDF into a database.
+The CdashIgApp supports metadata-drive automation by allowing users to import, view, and delete the Domains and Example CRFs specified in the CDASHIG V2.2 PDF into a database.
 
  ### Project Goals: 
  To streamline the adoption of CDASHIG V2.2 standards 
 
-### Comprehensive Informatrion about this project is avaialbe on our landing page 
+### Comprehensive Information about this project is avaialbe on our landing page 
 It covers the following topics:
 - Overview
 - Features
@@ -28,12 +28,10 @@ It covers the following topics:
 Given the diverse technical background of this group, our landing page guide aims to provide the group with information to enable them to understand the features, design, implementation, and installation of the CdashIg App to streamline the adoption of the CDASHIG V2.2 standards.
 
 ### Project Maturity:
-Beta software.  We anticiplate a stable release in Q4 2022
+The software is in development. We anticiplate a stable release in Q4 2022.  
 
 ### Open Source License:
 Apache 2.0
-
-
 
 ### Project Owner: 
 GalaxyeClinical LLC
