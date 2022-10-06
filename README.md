@@ -9,7 +9,7 @@ The CdashIgApp supports metadata-drive automation by allowing users to import, v
  ### Project Goals: 
  To streamline the adoption of CDASHIG V2.2 standards 
 
-### Comprehensive Information about this project is avaialbe on our landing page 
+### Comprehensive Information about this project is avaialbe on our [landingpage](https://galaxyeclinical.com) 
 It covers the following topics:
 - Overview
 - Features
