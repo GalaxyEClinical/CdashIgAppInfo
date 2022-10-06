@@ -9,15 +9,15 @@ The CDASHIG App supports metadata-drive automation by allowing users to import, 
  ### Project Goals: 
  To streamline the adoption of CDASHIG V2.2 standards 
 
-### Comprehensive Informatrion about this project is avaialbe on our landing page . It covers the following topics:
-
-
-
-## Project Maturity:
-Beta software.  We anticiplate a stable release in Q4 2022
-
-## Open Source License:
-Apache 2.0
+### Comprehensive Informatrion about this project is avaialbe on our landing page 
+It covers the following topics:
+- Overview
+- Features
+- Design
+- Implementation
+- Installation
+- Contribute
+- Contact
 
 ### Users: 
 - Pharmaceutical Companies
@@ -26,6 +26,14 @@ Apache 2.0
 - Clinical Research Programmers
 
 Given the diverse technical background of this group, our landing page guide aims to provide the group with information to enable them to understand the features, design, implementation, and installation of the CdashIg App to streamline the adoption of the CDASHIG V2.2 standards.
+
+### Project Maturity:
+Beta software.  We anticiplate a stable release in Q4 2022
+
+### Open Source License:
+Apache 2.0
+
+
 
 ### Project Owner: 
 GalaxyeClinical LLC
