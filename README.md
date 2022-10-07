@@ -28,13 +28,13 @@ It covers the following topics:
 Given the diverse technical background of this group, our [landing page](https://galaxyeclinical.com) aims to provide the group with information to enable them to understand the features, design, implementation, and installation of the CdashIg App to streamline the adoption of the CDASHIG V2.2 standards.
 
 ### Project Maturity:
-The software is in development. We anticiplate a stable release in Q4 2022.  The code in this repository is just a placeholder for code that will be ultimately posted. 
+The software is in development. We anticiplate a stable release in Q4 2022.   
 
 ### Open Source License:
 Apache 2.0
 
 ### Project Owner: 
-GalaxyeClinical LLC
+GalaxyeClinical
 
 ### Project Contact:
 Philip.Quarles@galaxyeclinical.com
